@@ -1,0 +1,13 @@
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.vbproj.AssemblyReference.cache
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.vbproj.SuggestedBindingRedirects.cache
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.Form1.resources
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.Resources.resources
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.vbproj.GenerateResource.cache
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.vbproj.CoreCompileInputs.cache
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\bin\Debug\ProyectoMovParabolico.exe.config
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\bin\Debug\ProyectoMovParabolico.exe
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\bin\Debug\ProyectoMovParabolico.pdb
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\bin\Debug\ProyectoMovParabolico.xml
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.exe
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.xml
+C:\Users\andres sierra\source\repos\ProyectoMovParabolico\ProyectoMovParabolico\obj\Debug\ProyectoMovParabolico.pdb
